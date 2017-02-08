@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Main Rest API Class
+ * Main Rest API Class is used for simple api calls should be so simple as it
+ * possible, so that one could move this class in every other project
  *
  * @author odzhara-ongom
  */
